@@ -15,22 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
-### Hi there I'm Sneha Sarkar 👋
+# Hi there I'm Sneha 👋
 
-**`Software Development Engineer II at Adobe`** </br>
-<!--
-**`Software Development/Data Science/Machine Learning`**
--->
+#### **`Software Development Engineer II at Adobe`** </br>
+
+
+[![LinkedIn](https://img.shields.io/badge/-Linked%20In-%230A67C3?style=for-the-badge&logo=linkedin&logoColor=ffffff)]([https://linkedin.com/in/snesarka](https://www.linkedin.com/in/snesarka/)) &ensp;
+[![My Website](https://img.shields.io/badge/-Portfolio-%230A67C3?style=for-the-badge)]([https://itmesneha.github.io/](https://itmesneha.github.io/))
 
 ---
-
-<!--
-I am a graduate student at [San Jose State University](https://sjsu.edu/cs) with a passion for Machine Learning. I have extensive experience designing machine learning solutions from ETL pipelines, algorithms, databases, and websites, with a track record of successful projects in cloud-based data science and software development. 
--->
-
-[![LinkedIn](https://img.shields.io/badge/-Sneha%20Sarkar-%230A67C3?style=for-the-badge&logo=linkedin&logoColor=ffffff)]([https://linkedin.com/in/chinmayi-hegde](https://www.linkedin.com/in/snesarka/)) &ensp;
-[![My Website](https://img.shields.io/badge/-Portfolio-%230A67C3?style=for-the-badge)]([https://chinhegde.github.io/](https://itmesneha.github.io/))
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -61,18 +54,16 @@ I am a graduate student at [San Jose State University](https://sjsu.edu/cs) with
 #
 
 <details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+ <summary><h3></h3></summary>
    
-As a wide-eyed computer science undergraduate, I started on my coding journey at the age of 17. Initially, I started with C and C++ because that is what we were learning in school. I mainly practiced on HackerRank. My curiosity to solve "actual problems" led me to explore IoT first, and then web development, where I encountered HTML, CSS, and JavaScript - and eventually Python through Django. These languages opened up a new dimension, enabling the artist in me to create interactive and visually appealing websites.
-<br/>
-A web scraping project that generated sitemaps was my first Python project. I applied these concepts to scrape research paper citations based on specific topics, culminating in my first "ML project" – a super-basic recommendation system. This experience fueled my interest in machine learning, and I dove deeper into the field, experimenting with new technologies and constructing innovative projects.
+
 </details>
 
 #
 
-Read my random thoughts: [blog](https://chinmayih.wordpress.com) 
+[blog]() 
 <br/>
-I used to paint when academia did not consume my whole life: [instagram](https://www.instagram.com/artwithchin/) and [youtube](https://www.youtube.com/artwithchin)
+[instagram]()  [youtube]()
 
 
 ![Profile Visitors Count](https://profile-counter.glitch.me/itmesneha/count.svg)
