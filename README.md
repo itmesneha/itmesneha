@@ -20,8 +20,13 @@ Here are some ideas to get you started:
 #### **`Software Development Engineer II at Adobe`** </br>
 
 
-[![LinkedIn](https://img.shields.io/badge/-Linked%20In-%230A67C3?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/snesarka/) &ensp;
-[![My Website](https://img.shields.io/badge/-Portfolio-%230A67C3?style=for-the-badge)](https://itmesneha.github.io/)
+<a href="https://www.linkedin.com/in/snesarka/" target="_blank">
+  <img src="https://img.shields.io/badge/-Linked%20In-%230A67C3?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn">
+</a> &ensp;
+<a href="https://itmesneha.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-%230A67C3?style=for-the-badge" alt="Portfolio">
+</a>
+
 
 
 ---
