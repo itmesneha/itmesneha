@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 #### **`Software Development Engineer II at Adobe`** </br>
 
 
-[![LinkedIn](https://img.shields.io/badge/-Linked%20In-%230A67C3?style=for-the-badge&logo=linkedin&logoColor=ffffff)]([https://linkedin.com/in/snesarka](https://www.linkedin.com/in/snesarka/)) &ensp;
-[![My Website](https://img.shields.io/badge/-Portfolio-%230A67C3?style=for-the-badge)]([https://itmesneha.github.io/](https://itmesneha.github.io/))
+[![LinkedIn](https://img.shields.io/badge/-Linked%20In-%230A67C3?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/snesarka/) &ensp;
+[![My Website](https://img.shields.io/badge/-Portfolio-%230A67C3?style=for-the-badge)](https://itmesneha.github.io/)
+
 
 ---
 ### 🧰 Languages and Tools
